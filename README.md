@@ -14,11 +14,11 @@ BTcar is a DIY robotics project built using an Arduino Uno. The car is controlle
 - DC motor control using L298N motor driver
 
 ### Planned Features
-- Obstacle avoidance
-- Autonomous driving 
+- Obstacle avoidance (planned)
+- Autonomous driving (planned)
 - Line-following mode (planned)
 - Improved control interface
-- Additional sensors and smart features (plabned)
+- Additional sensors and smart features (planned)
 
 ## Hardware
 
